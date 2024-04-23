@@ -1,0 +1,2 @@
+main.adb:45:17: warning: "sum" may be referenced before it has a value [enabled by default]
+main.adb:45:23: warning: "count" may be referenced before it has a value [enabled by default]
