@@ -1,10 +1,29 @@
 <?xml version="1.0"?>
 <Locations >
   <Project>
-    <vfs_file>D:\Programming\Parallel processes\lab1\Ada\ada_project.gpr</vfs_file>
+    <vfs_file>D:\New\Parallel processes\lab1\Ada\ada_project.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\New\Parallel processes\lab1\Ada\ada_project.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\New\Parallel processes\lab1\Ada\ada_project.gpr</vfs_project>
+      <vfs_file>D:\New\Parallel processes\lab1\Ada\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 88" >
+      <vfs_project>D:\New\Parallel processes\lab1\Ada\ada_project.gpr</vfs_project>
+      <vfs_file>D:\New\Parallel processes\lab1\Ada\src\main.adb</vfs_file>
+    </file_marker>
     <file_marker current="true" column=" 1" line=" 1" >
-      <vfs_project>D:\Programming\Parallel processes\lab1\Ada\ada_project.gpr</vfs_project>
-      <vfs_file>D:\Programming\Parallel processes\lab1\Ada\src\main.adb</vfs_file>
+      <vfs_project>D:\New\Parallel processes\lab1\Ada\ada_project.gpr</vfs_project>
+      <vfs_file>D:\New\Parallel processes\lab1\Ada\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >D:\Programming\Parallel processes\lab1\Ada\ada_project.gpr</vfs_file>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >D:\Programming\Parallel processes\lab1\Ada\ada_project.gpr</vfs_project>
+      <vfs_file >D:\Programming\Parallel processes\lab1\Ada\src\main.adb</vfs_file>
     </file_marker>
   </Project>
   <Project >
